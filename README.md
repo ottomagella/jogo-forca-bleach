@@ -54,7 +54,7 @@ python forca.py
 ```
 forca/
 │
-├── forca.py        # Código principal
+├── jogo-da-forca.py        # Código principal
 └── README.md       # Este arquivo
 ```
 
